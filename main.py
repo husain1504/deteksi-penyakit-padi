@@ -139,10 +139,10 @@ def import_and_predict(image_data, model):
 with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/3022/3022999.png", width=80)
     st.title("Dokter Padi")
-    st.caption("Versi 1.0 - Skripsi Informatika")
+    st.caption("Versi 1.0 - Petani Cerdas")
     st.markdown("---")
     st.info("Aplikasi ini mendukung Dark Mode otomatis mengikuti pengaturan HP/Laptop Anda.")
-    st.markdown("© 2025 Project Skripsi")
+    st.markdown("© 2025 Petani Cerdas")
 
 # ==========================================
 # 5. UI UTAMA
